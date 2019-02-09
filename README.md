@@ -8,6 +8,9 @@ Working idea is to use python to get a program where given the path for a trip w
 https://www.youtube.com/watch?v=UrrWxyq1Z48
 
 
+Api-Key: AIzaSyCniFFksn64_39YvSETuB-zVBjtMk5Xrb4
+
+
 - [ ] trip information
 - [ ] weather information on the trip
 - [ ] figure out how to make the extension
